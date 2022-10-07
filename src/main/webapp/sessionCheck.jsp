@@ -16,6 +16,6 @@
 			out.println(sessionId +"님은 로그인 중입니다.");
 		}
 	%>
-	
+	<a href="sessionInfo.jsp">세션의 모든정보 확인</a>
 </body>
 </html>
